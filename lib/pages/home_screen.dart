@@ -100,7 +100,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             const SizedBox(height: 8.0),
             const Text(
-              '@ Enter some text',
+              'Enter some text',
               style: TextStyle(color: Colors.grey, fontSize: 12),
             ),
 
